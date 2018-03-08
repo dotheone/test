@@ -6,7 +6,7 @@
 	<groupId>com.jenkins</groupId>
 	<artifactId>test</artifactId>
 	<packaging>war</packaging>
-
+	<version>0.0.1-SNAPSHOT</version>
 	<name>test</name>
 	<description>Demo project for Spring Boot</description>
 
